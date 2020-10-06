@@ -2,7 +2,7 @@
 # Enlaces Utiles
 
 [Figma](https://www.figma.com/file/GE7sCFJGS5g4ZBCEM3BVi1/Adasu?node-id=6%3A3)
-– – – –
+------------------
 
 Primero tenes que clonar el repositorio en la terminal de vs code
 
